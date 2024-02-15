@@ -5,7 +5,7 @@ homepage: https://github.com/Afur/flutter_html_to_pdf
 
 environment:
   sdk: ">=2.18.0 <3.0.0"
-  flutter: '>=3.3.10'
+  flutter: '>=3.3.5'
 
 dependencies:
   flutter:
